@@ -24,9 +24,9 @@ This is intended to support loop diagrams, documentation, and field wiring summa
 ---
 ## Output Example (Planned)
 
-| Sensor | Pin | Sensor Cable | Wire 1 | JB | JBIB | JB Cable | Wire 2 |
-|--------|-----|---------------|--------|----|------|----------|--------|
-| FT101  | 1A  | CBL01         | W1     | JB1| IB1  | JB-CBL1  | W2     |
+| Sensor | Pin | Sensor Cable | Wire 1 | JB  | JBIB   | JB Cable | Wire 2 |
+|--------|-----|--------------|--------|-----|--------|----------|--------|
+| 13V09  | 1   | WV           | RT     | JB2B| JB213  | W3       | 17     |
 
 ---
 
